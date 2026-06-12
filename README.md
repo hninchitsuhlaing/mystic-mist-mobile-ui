@@ -27,7 +27,3 @@ The project focuses on creating an intuitive shopping experience through modern 
 ## My Role
 
 UI/UX Designer
-
-## Screenshots
-
-(Add screenshots here)
